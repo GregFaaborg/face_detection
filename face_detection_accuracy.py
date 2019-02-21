@@ -25,8 +25,8 @@ print("[INFO] starting video stream...")
 vs = cv2.VideoCapture(0)
 
 #for original frame
-cv2.namedWindow("Test")
-cv2.moveWindow("Test",440,330)
+#cv2.namedWindow("Test")
+#cv2.moveWindow("Test",440,330)
 # loop over the frames from the video stream
 while True:
 
