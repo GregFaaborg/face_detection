@@ -1,5 +1,5 @@
 # Face detection accuracy using opencv in python
 
 install dependencies
-run: $ ./video.py
+run: $ ./face_detecion_accuracy.py
 quit: press q to quit in video screen 
